@@ -19,10 +19,10 @@ data, performing various operations on this data is the thing that had implement
 5) The customer can purchase any product available in the store by its Product ID.
 6) Once the Product is Purchased the Bill is generated for the purchase product id along with Product information
    and the number of quantities purshased by the customer.
-7) The is inclusive of 5% GST on the Product along with the discount associated with that Product.
+7) The bill is inclusive of 5% GST on the Product along with the discount associated with that Product.
 8) The all information about the sale made by the store in saved inside a separate json file.
 9) The owner can have a look at the sales made by the shop on the specific date along with the time mention on it.
-10) The above all are functionalites implemented in the project.
+10) The above all are functionalites implemented in this project.
 
 ** Features **
 
